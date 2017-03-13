@@ -233,7 +233,7 @@
         <td>下拉</td>
     </tr>
     <tr>
-        <td>dorp_menu</td>
+        <td>drop_menu</td>
         <td>下拉菜单</td>
     </tr>
     <tr>
